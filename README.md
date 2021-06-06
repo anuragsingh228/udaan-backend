@@ -1,4 +1,4 @@
-![Flow Chart](https://github.com/anuragsingh228/FP/blob/master/assets/Flowchart.png)
+![Flow Chart](https://github.com/anuragsingh228/udaan-backend/blob/master/assets/Flowchart.png)
 
 Next Task:
 
